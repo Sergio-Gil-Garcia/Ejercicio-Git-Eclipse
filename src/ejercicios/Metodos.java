@@ -6,9 +6,11 @@ public class Metodos {
 		
 		String palabra1 = "Hola";
 		String palabra2 = "Mundo";
-		
 		System.out.println(palabra1 + " " + palabra2);
-
+		
+		char numero = 97;
+		System.out.println(numero);
+		
 	}
 
 }
