@@ -11,6 +11,9 @@ public class Metodos {
 		char numero = 97;
 		System.out.println(numero);
 		
+		char letra = 'a';
+		double c = letra;
+		System.out.println(c);
 	}
 
 }
